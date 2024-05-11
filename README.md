@@ -1,4 +1,4 @@
-![image](https://github.com/KiranbalajiH/Figma/assets/149135475/1c0e703a-dab0-45d2-aa80-41c7ddd60afd)# Ex09 Event Registration Web Application
+## Ex09 Event Registration Web Application
 ## Date:
 
 ## AIM:
